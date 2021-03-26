@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mods>
+  <mod packageId="brrainz.harmony" />
+  <mod packageId="Ludeon.RimWorld" />
+  <mod packageId="GiantSpaceHamster.Moody" />
+  <mod packageId="rwmt.Multiplayer" />
+  <mod packageId="UnlimitedHugs.HugsLib" />
+  <mod packageId="avilmask.CommonSense" />
+  <mod packageId="PeteTimesSix.SimpleSidearms" />
+  <mod packageId="falconne.RoomSense" />
+  <mod packageId="UnlimitedHugs.AllowTool" />
+  <mod packageId="Jaxe.RimHUD" />
+  <mod packageId="Uuugggg.ReplaceStuff" />
+  <mod packageId="notfood.ResearchPal" />
+</Mods>

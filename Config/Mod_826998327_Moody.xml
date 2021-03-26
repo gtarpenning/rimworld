@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="Moody.Settings">
+		<MoodyX>1156</MoodyX>
+		<MoodyY>5</MoodyY>
+		<MoodyWidth>420</MoodyWidth>
+		<MoodyHeight>420</MoodyHeight>
+		<TinyModeScale>0.670000017</TinyModeScale>
+		<DataRefreshCycle>10</DataRefreshCycle>
+		<GroupPawnsByMap>False</GroupPawnsByMap>
+	</ModSettings>
+</SettingsBlock>
