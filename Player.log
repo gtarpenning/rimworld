@@ -1,0 +1,166 @@
+Mono path[0] = 'C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Managed'
+Mono config path = 'C:/Program Files (x86)/Steam/steamapps/common/RimWorld/MonoBleedingEdge/etc'
+Initialize engine version: 2019.2.17f1 (8e603399ca02)
+[XR] Discovering subsystems at path C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1080 (ID=0x1b80)
+    Vendor:   
+    VRAM:     8079 MB
+    Driver:   27.21.14.5671
+Begin MonoManager ReloadAssembly
+- Completed reload, in  1.276 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.386300 ms
+RimWorld 1.2.2900 rev837
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000256A6746010.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000256A66DF0D0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000256A6842030.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000256A66EA050.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000256A666FB60.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000256A6679570.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000256A684A880.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000256A668AF80.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000256A6889BD0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000256A6967010.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000256A7FA0080.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000256A7FB5BB0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000256A7FFBBD0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000256A802F9E0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000256A8092010.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000256A80C3E50.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000256A80C7E60.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000256A80CC470.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000256A80E1680.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000256A81C3AB0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000256A82860F0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000256A828A510.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000256A828E920.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000256A82EE030.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000256A870B170.dll
+Current API version: 0.1
+Mod ResearchPal has API client (0.1)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000256A8515A20.dll
+[HugsLib] version 8.0.1
+[HugsLib] early-initializing AllowTool
+Moody settings loaded
+Dubs Mint Minimap 1.3.754
+Key binding conflict: MainTab_History and NextPawnMode are both bound to F9.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Key binding conflict: Dev_ChangeSelectedDebugAction and MainTab_Architect are both bound to Tab.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Translation data for language English has 1 errors. Generate translation report for more info.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+ResearchPal :: Initialized compatibility for Multiplayer
+Plugins: Failed to load 'simple_profiler' because one or more of its dependencies could not be loaded.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Misc/Plugins.cpp Line: 292)
+
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/.\simple_profiler.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/.\simple_profiler.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/simple_profiler.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/simple_profiler.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/simple_profiler.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/.\simple_profiler
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/.\simple_profiler.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/simple_profiler
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/simple_profiler.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/simple_profiler
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/.\libsimple_profiler.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/.\libsimple_profiler.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/libsimple_profiler.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/libsimple_profiler.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/libsimple_profiler.dll
+Multiplayer version 0.5.2.3
+Player's username: barackoli
+Processor: AMD Ryzen 7 3700X 8-Core Processor 
+Patching Multiplayer for DubsMintMinimap, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null...OK
+[RimHUD v1.7.0] Initialized
+[Uuugggg.rimworld.Replace_Stuff.main] Patches on methods annotated as Obsolete were detected by HugsLib: Verse.GhostDrawer.DrawGhostThing
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[ShowDrafteesWeapon] Initialized
+ResearchPal :: Preparing research nodes
+ResearchPal :: Reducing crossings
+ResearchPal :: Finalizing layout
+ResearchPal :: Restoring queue
+[RimHUD v1.7.0] Integrated with Multiplayer
+[RimHUD v1.7.0] Multiplayer ready with API 0.1
+[HugsLib] initializing RoomSense, PeteTimesSix.SimpleSidearms, HeatMap
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.247900 ms
+
+Unloading 52 unused Assets to reduce memory usage. Loaded Objects now: 10654.
+Total: 70.558700 ms (FindLiveObjects: 0.629800 ms CreateObjectMapping: 0.133900 ms MarkObjects: 69.736500 ms  DeleteObjects: 0.058200 ms)
+
+Loading game from file Northeast Binan with mods:
+  - brrainz.harmony
+  - Ludeon.RimWorld
+  - notfood.ResearchPal
+  - rwmt.Multiplayer
+  - Uuugggg.ReplaceStuff
+  - Jaxe.RimHUD
+  - UnlimitedHugs.HugsLib
+  - UnlimitedHugs.AllowTool
+  - GiantSpaceHamster.Moody
+  - falconne.RoomSense
+  - avilmask.CommonSense
+  - PeteTimesSix.SimpleSidearms
+  - dubwise.dubsmintminimap
+  - targhetti.ShowDrafteesWeapon
+  - FrozenSnowFox.ComplexJobs
+  - falconne.HeatMap
+  - Sandy.RPGStyleInventory
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 17993.
+Total: 152.894900 ms (FindLiveObjects: 0.753900 ms CreateObjectMapping: 0.223700 ms MarkObjects: 151.870900 ms  DeleteObjects: 0.046100 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.440400 ms
+
+Unloading 7145 unused Assets to reduce memory usage. Loaded Objects now: 12167.
+Total: 113.057600 ms (FindLiveObjects: 0.949200 ms CreateObjectMapping: 0.230100 ms MarkObjects: 102.474300 ms  DeleteObjects: 9.403500 ms)
+
+Loading game from file Northeast Binan with mods:
+  - brrainz.harmony
+  - Ludeon.RimWorld
+  - notfood.ResearchPal
+  - rwmt.Multiplayer
+  - Uuugggg.ReplaceStuff
+  - Jaxe.RimHUD
+  - UnlimitedHugs.HugsLib
+  - UnlimitedHugs.AllowTool
+  - GiantSpaceHamster.Moody
+  - falconne.RoomSense
+  - avilmask.CommonSense
+  - PeteTimesSix.SimpleSidearms
+  - dubwise.dubsmintminimap
+  - targhetti.ShowDrafteesWeapon
+  - FrozenSnowFox.ComplexJobs
+  - falconne.HeatMap
+  - Sandy.RPGStyleInventory
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 19116.
+Total: 182.832400 ms (FindLiveObjects: 1.378500 ms CreateObjectMapping: 0.227200 ms MarkObjects: 181.125800 ms  DeleteObjects: 0.100500 ms)
+
+Setting up 8 worker threads for Enlighten.
+  Thread -> id: 1c08 -> priority: 1 
+  Thread -> id: 7a4 -> priority: 1 
+  Thread -> id: 6d0 -> priority: 1 
+  Thread -> id: 396c -> priority: 1 
+  Thread -> id: 1fb4 -> priority: 1 
+  Thread -> id: 23cc -> priority: 1 
+  Thread -> id: 3cac -> priority: 1 
+  Thread -> id: 2010 -> priority: 1 
